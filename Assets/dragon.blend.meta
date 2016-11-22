@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: a3756f9f5508a48fd88d4854fe1fc9a5
+timeCreated: 1442769804
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Arm_1_L
+    100002: Arm_1_R
+    100004: Arm_2_L
+    100006: Arm_2_L_001
+    100008: Arm_2_R
+    100010: Arm_2_R_001
+    100012: Arm_3__R
+    100014: Arm_3_L
+    100016: Arm_3_L_001
+    100018: Arm_3_R_001
+    100020: Arm_4_L
+    100022: Arm_4_R
+    100024: Armature
+    100026: Base
+    100028: Body_IK
+    100030: Chest
+    100032: Circle
+    100034: Cube
+    100036: //RootNode
+    100038: Fin1_L
+    100040: Fin1_R
+    100042: Fin2_L
+    100044: Fin2_R
+    100046: Fin3_L
+    100048: Fin3_R
+    100050: Fin_mid
+    100052: Fin_mid_001
+    100054: Fin_mid_002
+    100056: Finger1_1_L
+    100058: Finger1_1_R
+    100060: Finger1_2_L
+    100062: Finger1_2_R
+    100064: Finger2_2_L
+    100066: Finger2_2_R
+    100068: Finger3_1_L
+    100070: Finger3_1_R
+    100072: Finger3_2_L
+    100074: Finger3_2_R
+    100076: Finger_2_1_L
+    100078: Finger_2_1_R
+    100080: Hand_L
+    100082: Hand_R
+    100084: Head
+    100086: Hips
+    100088: Hips_001
+    100090: Jaw
+    100092: Neck
+    100094: Neck_001
+    100096: Shoulder_L
+    100098: Shoulder_R
+    100100: Sphere_001
+    100102: Tail
+    100104: Tail_001
+    100106: Tail_002
+    100108: Tail_003
+    100110: Tail_004_L
+    100112: Tail_004_R
+    100114: Tail_005
+    100116: Tail_006_L
+    100118: Tail_006_R
+    400000: Arm_1_L
+    400002: Arm_1_R
+    400004: Arm_2_L
+    400006: Arm_2_L_001
+    400008: Arm_2_R
+    400010: Arm_2_R_001
+    400012: Arm_3__R
+    400014: Arm_3_L
+    400016: Arm_3_L_001
+    400018: Arm_3_R_001
+    400020: Arm_4_L
+    400022: Arm_4_R
+    400024: Armature
+    400026: Base
+    400028: Body_IK
+    400030: Chest
+    400032: Circle
+    400034: Cube
+    400036: //RootNode
+    400038: Fin1_L
+    400040: Fin1_R
+    400042: Fin2_L
+    400044: Fin2_R
+    400046: Fin3_L
+    400048: Fin3_R
+    400050: Fin_mid
+    400052: Fin_mid_001
+    400054: Fin_mid_002
+    400056: Finger1_1_L
+    400058: Finger1_1_R
+    400060: Finger1_2_L
+    400062: Finger1_2_R
+    400064: Finger2_2_L
+    400066: Finger2_2_R
+    400068: Finger3_1_L
+    400070: Finger3_1_R
+    400072: Finger3_2_L
+    400074: Finger3_2_R
+    400076: Finger_2_1_L
+    400078: Finger_2_1_R
+    400080: Hand_L
+    400082: Hand_R
+    400084: Head
+    400086: Hips
+    400088: Hips_001
+    400090: Jaw
+    400092: Neck
+    400094: Neck_001
+    400096: Shoulder_L
+    400098: Shoulder_R
+    400100: Sphere_001
+    400102: Tail
+    400104: Tail_001
+    400106: Tail_002
+    400108: Tail_003
+    400110: Tail_004_L
+    400112: Tail_004_R
+    400114: Tail_005
+    400116: Tail_006_L
+    400118: Tail_006_R
+    4300000: Cube
+    4300002: Circle
+    4300004: Sphere_001
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Circle
+    13700002: Cube
+    13700004: Sphere_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
